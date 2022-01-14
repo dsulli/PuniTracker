@@ -1,0 +1,392 @@
+{
+    "A-Ranks": [
+        { 
+            "name": "Stormblood",
+            "marks": [
+                {
+                    "name": "Erle",
+                    "altName": "bee",
+                    "zone": "The Fringes",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Orcus",
+                    "altName": "ant",
+                    "zone": "The Fringes",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Aqrabuamelu",
+                    "altName": "scorpion",
+                    "zone": "The Peaks",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Vochstein",
+                    "altName": "BIRB",
+                    "zone": "The Peaks",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Luminare",
+                    "altName": "salt rock",
+                    "zone": "The Lochs",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Mahisha",
+                    "altName": "1111-tonze cliff edges",
+                    "zone": "The Lochs",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Funa Yurei",
+                    "altName": "funny yokai",
+                    "zone": "The Ruby Sea",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Oni Yumemi",
+                    "altName": "oni yummy",
+                    "zone": "The Ruby Sea",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Angada",
+                    "altName": "angy doggo",
+                    "zone": "Yanxia",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Gajasura",
+                    "altName": "mace pig",
+                    "zone": "Yanxia",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Girimekhala",
+                    "altName": "girimammothkhala",
+                    "zone": "The Azim Steppe",
+                    "lastKilled": 1642056675
+                },
+                {
+                    "name": "Sum",
+                    "altName": "S U M",
+                    "zone": "The Azim Steppe",
+                    "lastKilled": 1642056675
+                }
+            ]
+        },
+        { 
+            "name": "Shadowbringers",
+            "marks": [
+                {
+                    "name": "Nariphon",
+                    "altName": "nawiphon",
+                    "zone": "Lakeland",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Nuckelavee",
+                    "altName": "nuckuwuavee",
+                    "zone": "Lakeland",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Huracan",
+                    "altName": "huwacan",
+                    "zone": "Kholusia",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Li'l Murderer",
+                    "altName": "muwuduwuew",
+                    "zone": "Kholusia",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Maliktender",
+                    "altName": "mawiktendew",
+                    "zone": "Amh Araeng",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Sugaar",
+                    "altName": "sugawu",
+                    "zone": "Amh Araeng",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "O Poorest Pauldia",
+                    "altName": "owo powoest pauwdia",
+                    "zone": "Il Mheg",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "The Mudman",
+                    "altName": "mudchan my beloved",
+                    "zone": "Il Mheg",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Grassman",
+                    "altName": "gwassnyan",
+                    "zone": "The Rak'tika Greatwood",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Supay",
+                    "altName": "suwupay",
+                    "zone": "The Rak'tika Greatwood",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Baal",
+                    "altName": "baaw",
+                    "zone": "The Tempest",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Rusalka",
+                    "altName": "uwusawka",
+                    "zone": "The Tempest",
+                    "lastKilled": 1642119878
+                }
+            ]
+        },
+        { 
+            "name": "Endwalker",
+            "instance": 1,
+            "marks": [
+                {
+                    "name": "Hulder",
+                    "altName": "dance party",
+                    "zone": "Labyrinthos",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Storsie",
+                    "altName": "elemental roulette",
+                    "zone": "Labyrinthos",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Sugriva",
+                    "altName": "big angy",
+                    "zone": "Thavnair",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Yilan",
+                    "altName": "big sum",
+                    "zone": "Thavnair",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Aegeiros",
+                    "altName": "big tree",
+                    "zone": "Garlemald",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Minerva",
+                    "altName": "robot grassman",
+                    "zone": "Garlemald",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Lunatender Queen",
+                    "altName": "PAN CACTUS",
+                    "zone": "Mare Lamentorum",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Mousse Princess",
+                    "altName": "pudding princess",
+                    "zone": "Mare Lamentorum",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Gurangatch",
+                    "altName": "horrifying pummel death",
+                    "zone": "Elpis",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Petalodus",
+                    "altName": "water shark",
+                    "zone": "Elpis",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Arch-Eta",
+                    "altName": "arch-eta",
+                    "zone": "Ultima Thule",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Fan Ail",
+                    "altName": "tripletania",
+                    "zone": "Ultima Thule",
+                    "lastKilled": 1642119878
+                }
+            ]
+        },
+        { 
+            "name": "Endwalker",
+            "instance": 2,
+            "marks": [
+                {
+                    "name": "Hulder",
+                    "altName": "dance party",
+                    "zone": "Labyrinthos",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Storsie",
+                    "altName": "elemental roulette",
+                    "zone": "Labyrinthos",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Sugriva",
+                    "altName": "big angy",
+                    "zone": "Thavnair",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Yilan",
+                    "altName": "big sum",
+                    "zone": "Thavnair",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Aegeiros",
+                    "altName": "big tree",
+                    "zone": "Garlemald",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Minerva",
+                    "altName": "robot grassman",
+                    "zone": "Garlemald",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Lunatender Queen",
+                    "altName": "PAN CACTUS",
+                    "zone": "Mare Lamentorum",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Mousse Princess",
+                    "altName": "pudding princess",
+                    "zone": "Mare Lamentorum",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Gurangatch",
+                    "altName": "horrifying pummel death",
+                    "zone": "Elpis",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Petalodus",
+                    "altName": "water shark",
+                    "zone": "Elpis",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Arch-Eta",
+                    "altName": "arch-eta",
+                    "zone": "Ultima Thule",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Fan Ail",
+                    "altName": "tripletania",
+                    "zone": "Ultima Thule",
+                    "lastKilled": 1642119878
+                }
+            ]
+        },
+        { 
+            "name": "Endwalker",
+            "instance": 3,
+            "marks": [
+                {
+                    "name": "Hulder",
+                    "altName": "dance party",
+                    "zone": "Labyrinthos",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Storsie",
+                    "altName": "elemental roulette",
+                    "zone": "Labyrinthos",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Sugriva",
+                    "altName": "big angy",
+                    "zone": "Thavnair",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Yilan",
+                    "altName": "big sum",
+                    "zone": "Thavnair",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Aegeiros",
+                    "altName": "big tree",
+                    "zone": "Garlemald",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Minerva",
+                    "altName": "robot grassman",
+                    "zone": "Garlemald",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Lunatender Queen",
+                    "altName": "PAN CACTUS",
+                    "zone": "Mare Lamentorum",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Mousse Princess",
+                    "altName": "pudding princess",
+                    "zone": "Mare Lamentorum",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Gurangatch",
+                    "altName": "horrifying pummel death",
+                    "zone": "Elpis",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Petalodus",
+                    "altName": "water shark",
+                    "zone": "Elpis",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Arch-Eta",
+                    "altName": "arch-eta",
+                    "zone": "Ultima Thule",
+                    "lastKilled": 1642119878
+                },
+                {
+                    "name": "Fan Ail",
+                    "altName": "tripletania",
+                    "zone": "Ultima Thule",
+                    "lastKilled": 1642119878
+                }
+            ]
+        }
+    ]
+}
