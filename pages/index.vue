@@ -55,6 +55,7 @@ import SparkleIcon from '../components/SparkleIcon.vue'
 import TrainIcon from '../components/TrainIcon.vue'
 import huntMarks from '../static/huntMarks.json'
 export default {
+  target: 'static',
   name: 'IndexPage',
   components: {
     MarkTimer,

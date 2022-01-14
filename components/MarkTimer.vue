@@ -41,7 +41,7 @@ export default {
       return {}
     }
   },
-  created () {
+  mounted () {
     setInterval(this.updateTimestamp, 1000)
   },
   methods: {
